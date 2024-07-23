@@ -64,6 +64,10 @@ body {
     padding-top: 10%;
 }
 
+.logo, .logo-text{
+    display: flex;
+}
+
 footer {
     width: 100%;
     color: white;
